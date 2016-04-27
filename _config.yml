@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "fouchard.org"
-title_separator          : "-"
-name                     : "Your Name"
+#title_separator          : "-"
+name                     : "Jeff Fouchard"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jfouchard.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jfouchard
 facebook:
   username               :
   app_id                 :
@@ -61,12 +61,12 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jeff Fouchard"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Nerd."
+  location         : "Ottawa, On"
+  email            : "jeff@fouchard.org"
+  uri              : "https://jfouchard.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
