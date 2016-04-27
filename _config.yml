@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "fouchard.org"
-#title_separator          : "-"
+title_separator          : "-"
 name                     : "Jeff Fouchard"
 description              : "An amazing website."
 url                      : "https://jfouchard.github.io"
