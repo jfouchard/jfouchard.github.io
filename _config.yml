@@ -8,14 +8,14 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "fouchard.org"
-title_separator          : "-"
+title_separator          : ""
 name                     : "Jeff Fouchard"
-description              : "An amazing website."
-url                      : "https://jfouchard.github.io"
+description              : ""
+url                      : "//jfouchard.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "facebook", "google-plus", custom"
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "jfouchard"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@jfouchard"
   vine             :
   weibo            :
   xing             :
